@@ -3,4 +3,4 @@
 
 int my_strlen(const char *str);
 
-#endif /* MY_LIBC_H */
+#endif
