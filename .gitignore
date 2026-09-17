@@ -1,4 +1,5 @@
 *.o
 *.a
-main.c
-a.out
+test
+test.c
+a.out 
