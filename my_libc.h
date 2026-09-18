@@ -4,6 +4,6 @@
 #include <stddef.h>
 
 size_t my_strlen(const char *s);
-char *strcpy(char *dest, const char *src);
+char *my_strcpy(char *dest, const char *src);
 
 #endif
