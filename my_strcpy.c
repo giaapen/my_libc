@@ -3,7 +3,7 @@
 char *
 my_strcpy(char *dst, const char *src)
 {
-	int i;
+	size_t i;
 
 	i = 0;
 	while (src[i] != '\0') {
